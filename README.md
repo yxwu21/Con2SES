@@ -1,1 +1,1 @@
-# Con2SES: Grid-Context Convolutional Model for Efficient Molecular Surface Construction from Neighboring Point Clouds
+# 🎑 Con2SES: Grid-Context Convolutional Model for Efficient Molecular Surface Construction from Neighboring Point Clouds
