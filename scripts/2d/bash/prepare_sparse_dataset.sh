@@ -1,0 +1,1 @@
+python -m scripts.2d.prepare_sparse_dataset
