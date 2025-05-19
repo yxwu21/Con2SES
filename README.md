@@ -16,8 +16,7 @@ This repository implements **Con2SES**, including data preprocessing, loading, m
     ```
 
 ## Datasets
-All datasets used for training and validation are located in the `dataset` folder.  
-The grid data can be generated using the PBSA module in AMBER.
+All datasets used for training and validation are located in the `dataset` folder. The grid data can be generated using the PBSA module in AMBER.
 
 ## Training
 To train the model on all image files:
